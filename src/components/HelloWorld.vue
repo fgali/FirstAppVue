@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <h2>Desde el componente</h2>
     <ul>
       <li>
         <a
@@ -45,7 +45,7 @@
         </a>
       </li>
     </ul>
-    <h2>Ecosystem</h2>
+    <h2>Ecosystem22</h2>
     <ul>
       <li>
         <a
@@ -88,7 +88,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      msg: "Welcome to Your Vue.js App"
+      msg: "Welcome to Your Vue.js App FG"
     };
   }
 };
